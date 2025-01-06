@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gtts
+speechrecognition
+uvicorn
+fastapi[standard]
+contextlib2
+pydub
+ffmpeg-python
